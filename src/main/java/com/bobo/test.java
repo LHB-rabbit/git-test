@@ -9,6 +9,6 @@ public class test {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("hello git555");
-        System.out.println("hello git666");
+        System.out.println("hello git777");
     }
 }
